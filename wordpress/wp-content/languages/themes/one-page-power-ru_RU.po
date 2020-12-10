@@ -1,0 +1,34 @@
+# Translation of Themes - One Page Power in Russian
+# This file is distributed under the same license as the Themes - One Page Power package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-16 21:30:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - One Page Power\n"
+
+#. Theme Name of the theme
+msgid "One Page Power"
+msgstr "One Page Power"
+
+#. Description of the theme
+msgid "one page power is specially designed for corporate/business websites. Theme is user friendly and its instant set up process help you to create professional website for Business (Agency, Interior, Florist, Transport, Construction etc), Shop / eCommerce, Personal, Blog, Photography. This responsive theme comes with live customizer, Full body background slider and background image option, Translation ready, Header layouts (Default, Center and Split), Widget based home page sections with unlimited items capability, Unlimited color option, Advance Section styling, Professionally designed sections (Ribbon, Services, About Us, Call to action, Team, Shop (WooCommerce), Testimonial, Latest News, Contact Us (With call to, Mail to, Address and Map). Theme contain seven widget area (Four for footer, Two for sidebar (default pages) and one for shop page). Theme is compatible with WooCommerce, bbPress, Lead form builder, Contactform7 and with many other WP plugin."
+msgstr ""
+"Тема one page power создана для корпоративных и бизнес сайтов. \n"
+"Тема удобна для пользователя, и ее мгновенный процесс настройки поможет вам создать профессиональный веб-сайт для бизнеса (агентство, интерьер, флорист, транспорт, строительство и.т.д.), магазина / электронной коммерции, личного, блога, фотографии. Эта адаптивная тема поставляется с интерфейсом настройки с живым просмотром, слайдером на полную ширину и опцией фонового изображения, готовой к переводу, макетами заголовков (по умолчанию, по центру и с разделением), основанными на виджетах разделами домашней страницы с возможностью неограниченного количества элементов, возможностью неограниченной настройки цветов, улучшенной стилизацией разделов, профессионально разработанными разделами (Лента, Услуги, О нас, Призыв к действию, Команда, Магазин (WooCommerce), Отзывы, Последние новости, Контакты (звонок, эл.почта, адрес, карта). Тема содержит семь областей виджетов (четыре для подвала, две для боковой панели (страницы по умолчанию) и одну для страницы магазина. Тема совместима с WooCommerce, bbPress, Lead Form Builder, Contact form7 и многими другими WP-плагинами."
+
+#. Theme URI of the theme
+msgid "http://www.evidisha.com/one-page-power/"
+msgstr "http://www.evidisha.com/one-page-power/"
+
+#. Author of the theme
+msgid "Evidisha Team"
+msgstr "Evidisha Team"
+
+#. Author URI of the theme
+msgid "http://www.evidisha.com/"
+msgstr "http://www.evidisha.com/"
